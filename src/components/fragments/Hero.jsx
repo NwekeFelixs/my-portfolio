@@ -57,7 +57,7 @@ const Hero = () => {
             I'm User Interface Designer & Developer.
           </h1>
           <p className="section-text" data-reveal="top" data-reveal-delay="0.75s">
-            Hello! I'm Feylicks, a freelance user interface designer & developer based in London. I’m very passionate
+            Hello! I'm Felix Nweke, a freelance user interface designer & developer based in NIGERIA. I’m very passionate
             about the work that I do.
           </p>
           <div className="btn-wrapper" data-reveal="top" data-reveal-delay="1s">

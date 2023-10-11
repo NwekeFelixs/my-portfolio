@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import '../css/style.css';
 import contactIcon from '../img/icon-5.svg'; 
+import {AiOutlineWhatsApp} from 'react-icons/ai'
 
 const ContactSection = () => {
   useEffect(() => {
@@ -75,6 +76,9 @@ const ContactSection = () => {
             <button type="submit" className="btn btn-secondary">
               Send message
             </button>
+            <a href='https://wa.me/07036875151?text=Hello' className='btn btn-primary' style={{marginTop: '10px', display: 'flex', justifyContent: 'space-between', alignItems: 'center'} }>
+              <AiOutlineWhatsApp style={{fontSize: '24px', marginRight: '5px'}}/> Chat me up
+            </a>
           </form>
         </div>
       </div>

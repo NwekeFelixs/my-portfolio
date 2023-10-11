@@ -38,9 +38,10 @@ const AboutSection = () => {
           <div data-reveal="left">
             <h2 className="h2 section-title">What I Do?</h2>
             <p className="section-text">
-              Duis mollis est commodo luctus nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis
-              risus eget urna mollis ornare vel. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus
-              magna, vel scelerisque nisl.
+            As a user interface designer and developer, 
+            I create visually appealing and user-friendly digital interfaces,
+             combining design and code to craft interactive, 
+            intuitive, and engaging experiences for websites and applications.
             </p>
           </div>
 
@@ -92,8 +93,9 @@ const AboutSection = () => {
               </div>
               <h3 className="h4 card-title">Web Design</h3>
               <p className="card-text">
-                Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus. Cras
-                justo cum sociis natoque magnis.
+              Web design is about crafting visually appealing, 
+              user-friendly websites, optimizing layout, typography, 
+              and graphics to create a compelling online presence.
               </p>
             </div>
           </li>
@@ -105,8 +107,8 @@ const AboutSection = () => {
               </div>
               <h3 className="h4 card-title">Mobile Design</h3>
               <p className="card-text">
-                Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus. Cras
-                justo cum sociis natoque magnis.
+              Mobile design focuses on creating responsive, user-friendly interfaces for smartphones and tablets, 
+              prioritizing touch-friendly navigation and optimizing content for small screens.
               </p>
             </div>
           </li>
@@ -118,8 +120,8 @@ const AboutSection = () => {
               </div>
               <h3 className="h4 card-title">Development</h3>
               <p className="card-text">
-                Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus. Cras
-                justo cum sociis natoque magnis.
+               Development encompasses coding, testing, and maintaining software and applications to ensure functionality, performance,
+               and user satisfaction in various technological domains.
               </p>
             </div>
           </li>
@@ -131,8 +133,8 @@ const AboutSection = () => {
               </div>
               <h3 className="h4 card-title">SEO</h3>
               <p className="card-text">
-                Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus. Cras
-                justo cum sociis natoque magnis.
+                SEO (Search Engine Optimization) involves optimizing web content to rank higher in search engine results, 
+                enhancing visibility and driving organic traffic to websites.
               </p>
             </div>
           </li>

@@ -46,7 +46,7 @@ const ProjectSection = () => {
               Check out some of my latest projects with creative ideas.
             </p>
           </div>
-          <a href="#" className="btn btn-secondary">
+          <a href="https://github.com/NwekeFelixs" className="btn btn-secondary">
             See All Projects
           </a>
         </div>
@@ -59,8 +59,8 @@ const ProjectSection = () => {
                 </p>
                 <h3 className="h3 card-title">Snowlake Theme</h3>
                 <p className="card-text">
-                  Maecenas faucibus mollis interdum sed posuere consectetur est at lobortis. Scelerisque id ligula
-                  porta felis euismod semper. Fusce dapibus tellus cursus.
+                  A digital agency website showcases the expertise of a team offering a wide range of digital services, 
+                  including web design, marketing, and technology solutions.
                 </p>
                 <a href="#" className="btn-text" style={{ color: '#a07cc5' }}>
                   <span className="span">See Project</span>
@@ -87,8 +87,8 @@ const ProjectSection = () => {
                 </p>
                 <h3 className="h3 card-title">Budget App</h3>
                 <p className="card-text">
-                  Maecenas faucibus mollis interdum sed posuere consectetur est at lobortis. Scelerisque id ligula
-                  porta felis euismod semper. Fusce dapibus tellus cursus.
+                  A budget app is a digital tool that helps 
+                  individuals or businesses manage their finances by tracking income, expenses, and financial goals.
                 </p>
                 <a href="#" className="btn-text" style={{ color: '#3f78e0' }}>
                   <span className="span">See Project</span>
@@ -115,8 +115,8 @@ const ProjectSection = () => {
                 </p>
                 <h3 className="h3 card-title">Missio Theme</h3>
                 <p className="card-text">
-                  Maecenas faucibus mollis interdum sed posuere porta consectetur cursus porta lobortis. Scelerisque
-                  id ligula felis.
+                  A travel website provides information, booking services, and resources for travelers, 
+                  helping them plan trips, discover destinations, and access travel-related content and services.
                 </p>
                 <a href="#" className="btn-text" style={{ color: '#7cb798' }}>
                   <span className="span">See Project</span>
@@ -143,8 +143,8 @@ const ProjectSection = () => {
                 </p>
                 <h3 className="h3 card-title">Storage App</h3>
                 <p className="card-text">
-                  Maecenas faucibus mollis interdum sed posuere consectetur est at lobortis. Scelerisque id ligula
-                  porta felis euismod semper.
+                  A storage app is a digital application that enables users to store, manage, and access their files, documents, 
+                  or data in a secure and organized manner, often with cloud-based functionality.
                 </p>
                 <a href="#" className="btn-text" style={{ color: '#d16b86' }}>
                   <span className="span">See Project</span>
